@@ -1,2 +1,4 @@
+
 hello
-this is a bug
+this is a bug ，but fixed
+
